@@ -108,7 +108,7 @@ class JabatanController extends Controller
 
         return redirect()
             ->route('jabatan.index')
-            ->with('success', 'Jabatan berthrthrrhasil diperbarui.');
+            ->with('success', 'Jabatan berhasil diperbarui.');
     }
 
 
