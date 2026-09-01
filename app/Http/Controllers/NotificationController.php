@@ -237,7 +237,7 @@ class NotificationController extends Controller
 
         return back()->with(
             'success',
-            'Status tiket berhasil diperbarui.'
+            'Status tiket berhasil diperbarui perbaharui.'
         );
     }
 }
