@@ -46,7 +46,7 @@ class LoginController extends Controller
 
         return back()
             ->withErrors([
-                'username' => 'Username atau password salah.',
+                'username' => 'Username atau fgjkgmhnbhfh password salah.',
             ])
             ->onlyInput('username');
     }
